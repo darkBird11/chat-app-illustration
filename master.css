@@ -97,7 +97,7 @@ body{
 .profile-img{
   height: 40px;
   width: 40px;
-  background-image: url("E:\\Web Development\\chat-app-css-illustration-master\\images\\avatar.jpg");
+  background-image: url(https://user-images.githubusercontent.com/66869195/99669223-c5621d00-2a94-11eb-813d-5199f627adfc.jpg");
   background-size: 100%;
   border-radius: 100%;
   border: 2px solid white;
@@ -140,17 +140,17 @@ body{
 }
 
 .image-1 {
-  background: url("E:\\Web Development\\chat-app-css-illustration-master\\images\\dog-image-1.jpg") no-repeat;
+  background: url("https://user-images.githubusercontent.com/66869195/99669354-ed518080-2a94-11eb-9e34-d540293039f1.jpg") no-repeat;
   background-size: 100%;
 }
 
 .image-2 {
-  background: url("E:\\Web Development\\chat-app-css-illustration-master\\images\\dog-image-2.jpg") no-repeat;
+  background: url("https://user-images.githubusercontent.com/66869195/99669405-04906e00-2a95-11eb-8743-1e3277a34552.jpg") no-repeat;
   background-size: 100%;
 }
 
 .image-3 {
-  background: url("E:\\Web Development\\chat-app-css-illustration-master\\images\\dog-image-3.jpg") no-repeat;
+  background: url("https://user-images.githubusercontent.com/66869195/99669452-170aa780-2a95-11eb-944d-2e049d2ffd1e.jpg") no-repeat;
   background-size: 100%;
   margin-right: 5px;
 }
